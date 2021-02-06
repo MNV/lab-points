@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PointsLab", "PointsLab\PointsLab.vbproj", "{DD2D2D3F-8500-4E94-94BF-3CE748981273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsApp", "FormsApp\FormsApp.csproj", "{B641D0C6-1B95-4278-9C3D-0BD0BA3E349D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2D2D3F-8500-4E94-94BF-3CE748981273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2D2D3F-8500-4E94-94BF-3CE748981273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2D2D3F-8500-4E94-94BF-3CE748981273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2D2D3F-8500-4E94-94BF-3CE748981273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B641D0C6-1B95-4278-9C3D-0BD0BA3E349D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B641D0C6-1B95-4278-9C3D-0BD0BA3E349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B641D0C6-1B95-4278-9C3D-0BD0BA3E349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B641D0C6-1B95-4278-9C3D-0BD0BA3E349D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31039F14-308B-45B1-81E5-1313A23B8427}
+	EndGlobalSection
+EndGlobal
